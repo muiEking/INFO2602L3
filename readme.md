@@ -4,7 +4,7 @@
 - fork this repo
 - create a new repl
 - import from your repo url
-- configure run command to `flask run -h 0.0.0.0 -p 8080 -r`
+- configure run command to `flask run -h 0.0.0.0 -p 8080 --reload`
 
 
 ## Local Setup
